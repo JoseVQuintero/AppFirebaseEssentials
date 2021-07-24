@@ -1,0 +1,2 @@
+rootProject.name = "AppFirebaseEssentials"
+include ':app'

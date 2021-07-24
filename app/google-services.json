@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66760441182",
+    "project_id": "appaprendev",
+    "storage_bucket": "appaprendev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66760441182:android:f567cd657456b95f79e3cf",
+        "android_client_info": {
+          "package_name": "com.danisable.appfirebaseessentials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66760441182-9g61l14nstm4lvesq6bt571oohhttbdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeANpbTqacNJ7S25tRGRqBjPt5G8x3wbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66760441182-9g61l14nstm4lvesq6bt571oohhttbdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
